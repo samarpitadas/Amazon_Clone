@@ -358,6 +358,7 @@ ul a{
     display: block;
     font-size: 0.9rem;
     margin-top: 8px;
+    cursor: pointer;
 }
 ul a:hover{
     text-decoration: underline;
