@@ -172,7 +172,7 @@ span{
 }
 /*hero section*/
 .hero-section{
-    background-image: url(/media/hero_image.jpg);
+    background-image: url('media/hero_image.jpg');
     height: 380px;
     background-size: cover;
     display: flex;
@@ -211,7 +211,7 @@ a:hover{
     justify-content: center;
 }
 .box-img1{
-    background-image: url("/media/box2_image.jpg");
+    background-image: url("media/box2_image.jpg");
     background-size: cover;
     height: 80%;
     width: 90%;
@@ -220,7 +220,7 @@ a:hover{
     margin-bottom: 7px;
 }
 .box-img2{
-    background-image: url("/media/box5_image.jpg");
+    background-image: url("media/box5_image.jpg");
     background-size: cover;
     height: 80%;
     width: 90%;
@@ -229,7 +229,7 @@ a:hover{
     margin-bottom: 7px;
 }
 .box-img3{
-    background-image: url("/media/box6_image.jpg");
+    background-image: url("media/box6_image.jpg");
     background-size: cover;
     height: 80%;
     width: 90%;
@@ -254,35 +254,35 @@ a:hover{
 
 }
 .fashion1{
-    background-image: url("/media/fashion1.jpg");
+    background-image: url("media/fashion1.jpg");
     background-size: cover;
     height: 115.85px;
     width: 160.76px;
     
 }
 .fashion2{
-    background-image: url("/media/fashion2.jpg");
+    background-image: url("media/fashion2.jpg");
     background-size: cover;
     height: 115.85px;
     width: 160.76px;
    
 }
 .fashion3{
-    background-image: url("/media/fashion3.jpg");
+    background-image: url("media/fashion3.jpg");
     background-size: cover;
     height: 115.85px;
     width: 160.76px;
    
 }
 .fashion4{
-    background-image: url("/media/fashion4.jpg");
+    background-image: url("media/fashion4.jpg");
     background-size: cover;
     height: 115.85px;
     width: 160.76px;
     
 }
 .box-img5{
-    background-image: url("/media/box7_image.jpg");
+    background-image: url("media/box7_image.jpg");
     background-size: cover;
     height: 80%;
     width: 90%;
@@ -291,7 +291,7 @@ a:hover{
     margin-bottom: 7px;
 }
 .box-img6{
-    background-image: url("/media/box4_image.jpg");
+    background-image: url("media/box4_image.jpg");
     background-size: cover;
     height: 80%;
     width: 90%;
@@ -360,7 +360,7 @@ ul a{
     margin-top: 8px;
     cursor: pointer;
 }
-ul a:hover{
+.foot-panel2 ul a:hover{
     text-decoration: underline;
     color: #dddddd;
 }
@@ -374,7 +374,7 @@ ul a:hover{
     align-items: center;
 }
 .logo{
-    background-image: url(/media/amazon_logo.png);
+    background-image: url(media/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
